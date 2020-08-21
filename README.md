@@ -1,0 +1,2 @@
+# redNeuronal_reconocimiento_basuras
+Proyecto final teleinformatica 1
